@@ -2,4 +2,4 @@
 Spring Data CrudRepository existsById()
 
 
-https://www.netsurfingzone.com/jpa/spring-data-crudrepository-existsbyid/
+https://www.javatute.com/jpa/spring-data-crudrepository-existsbyid/
